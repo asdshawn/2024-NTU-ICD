@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1700761780.029767127, "rt":1.64, "ut":0.63, "st":0.29}}
+{"vcselab":{"timestamp_begin":1700761781.766216558, "rt":1.30, "ut":0.54, "st":0.22}}
+{"link":{"timestamp_begin":1700761783.144676386, "rt":0.60, "ut":0.26, "st":0.20}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1700761779.424249020}
+{"VCS_COMP_START_TIME": 1700761779.424249020}
+{"VCS_COMP_END_TIME": 1700761790.116808266}
+{"VCS_USER_OPTIONS": "tb_poker.v poker.v lib.v -full64 -R -debug_access+all+v2k"}
+{"vcs1": {"peak_mem": 331660}}
+{"stitch_vcselab": {"peak_mem": 221056}}

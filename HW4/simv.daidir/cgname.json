@@ -1,0 +1,194 @@
+{
+    "tb": [
+        "tb",
+        "g7hgQ",
+        "module",
+        1
+    ],
+    "ASR_0000": [
+        "ASR_0000",
+        "FIYEg",
+        "module",
+        29
+    ],
+    "ASR_0001": [
+        "ASR_0001",
+        "wDups",
+        "module",
+        35
+    ],
+    "ADD1_0000": [
+        "ADD1_0000",
+        "Zf3gE",
+        "module",
+        34
+    ],
+    "COM_0000": [
+        "COM_0000",
+        "f6Cuc",
+        "module",
+        31
+    ],
+    "ABS_0000": [
+        "ABS_0000",
+        "rTi2s",
+        "module",
+        30
+    ],
+    "F_OP_0000": [
+        "F_OP_0000",
+        "AvbiK",
+        "module",
+        33
+    ],
+    "OUT_0000": [
+        "OUT_0000",
+        "dBuCF",
+        "module",
+        36
+    ],
+    "AN3": [
+        "AN3",
+        "MLJGP",
+        "module",
+        3
+    ],
+    "AN4": [
+        "AN4",
+        "dvdL6",
+        "module",
+        4
+    ],
+    "AN2": [
+        "AN2",
+        "tIBHS",
+        "module",
+        5
+    ],
+    "DRIVER": [
+        "DRIVER",
+        "u0mic",
+        "module",
+        6
+    ],
+    "DRIVER2": [
+        "DRIVER2",
+        "S530D",
+        "module",
+        7
+    ],
+    "EN": [
+        "EN",
+        "pPBcA",
+        "module",
+        8
+    ],
+    "EN3": [
+        "EN3",
+        "ZNWAt",
+        "module",
+        9
+    ],
+    "EO": [
+        "EO",
+        "JUC41",
+        "module",
+        10
+    ],
+    "EO3": [
+        "EO3",
+        "xR3ap",
+        "module",
+        11
+    ],
+    "FA1": [
+        "FA1",
+        "mRR4W",
+        "module",
+        12
+    ],
+    "FD1": [
+        "FD1",
+        "LRE8M",
+        "module",
+        13
+    ],
+    "HA1": [
+        "HA1",
+        "b9apy",
+        "module",
+        14
+    ],
+    "IV": [
+        "IV",
+        "fzpJR",
+        "module",
+        15
+    ],
+    "MUX21H": [
+        "MUX21H",
+        "nd3Qq",
+        "module",
+        16
+    ],
+    "ND2": [
+        "ND2",
+        "TxenJ",
+        "module",
+        17
+    ],
+    "ND3": [
+        "ND3",
+        "PbbMh",
+        "module",
+        18
+    ],
+    "ND4": [
+        "ND4",
+        "pK3mI",
+        "module",
+        19
+    ],
+    "NR2": [
+        "NR2",
+        "DUIFi",
+        "module",
+        20
+    ],
+    "NR3": [
+        "NR3",
+        "x5tgV",
+        "module",
+        21
+    ],
+    "NR4": [
+        "NR4",
+        "TkpKp",
+        "module",
+        22
+    ],
+    "OR2": [
+        "OR2",
+        "CKBi0",
+        "module",
+        23
+    ],
+    "OR3": [
+        "OR3",
+        "Jr5hv",
+        "module",
+        24
+    ],
+    "OR4": [
+        "OR4",
+        "N3e1v",
+        "module",
+        25
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        26
+    ]
+}

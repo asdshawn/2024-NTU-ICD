@@ -1,0 +1,10 @@
+Command Line: /usr/spring_soft/verdi/cur/platform/LINUXAMD64/bin/Novas -nWave
+uname(Linux cad27 3.10.0-1160.el7.x86_64 #1 SMP Mon Oct 19 16:18:59 UTC 2020 x86_64)
+Disabled Info Message: The file you selected is a HSPICE file.
+ It will be translated to Fast Signal Database(FSDB) file.
+The new waveform file name: /home/raid7_2/user12/r2945050/ICD/HW2/EN.tr0
+Converter is running ...
+
+Disabled AskUser3 Message (Response 0): /home/raid7_2/user12/r2945050/ICD/HW2/EN.tr0.fsdb exists, overwrite it ?
+Disabled Info Message: Fast file /home/raid7_2/user12/r2945050/ICD/HW2/EN.tr0.fsdb auto loading!
+au time 98.251328 3.576101 1.619905 delta 187564032 187564032 total 714977280 714977280

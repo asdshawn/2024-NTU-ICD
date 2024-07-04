@@ -1,0 +1,158 @@
+{
+    "tb_poker": [
+        "tb_poker",
+        "yZ3Bx",
+        "module",
+        1
+    ],
+    "Decoder": [
+        "Decoder",
+        "t8TcA",
+        "module",
+        36
+    ],
+    "SameCard4": [
+        "SameCard4",
+        "mmmCh",
+        "module",
+        35
+    ],
+    "SameCard3": [
+        "SameCard3",
+        "T2nAf",
+        "module",
+        34
+    ],
+    "SameCard2": [
+        "SameCard2",
+        "TFQVv",
+        "module",
+        33
+    ],
+    "AN5": [
+        "AN5",
+        "kGTv9",
+        "module",
+        32
+    ],
+    "ND5": [
+        "ND5",
+        "DrP8e",
+        "module",
+        23
+    ],
+    "NR5": [
+        "NR5",
+        "rMRDD",
+        "module",
+        5
+    ],
+    "AN4": [
+        "AN4",
+        "dvdL6",
+        "module",
+        3
+    ],
+    "DRIVER": [
+        "DRIVER",
+        "u0mic",
+        "module",
+        12
+    ],
+    "DRIVER2": [
+        "DRIVER2",
+        "S530D",
+        "module",
+        13
+    ],
+    "EN": [
+        "EN",
+        "pPBcA",
+        "module",
+        14
+    ],
+    "EN3": [
+        "EN3",
+        "ZNWAt",
+        "module",
+        15
+    ],
+    "EO": [
+        "EO",
+        "JUC41",
+        "module",
+        16
+    ],
+    "EO3": [
+        "EO3",
+        "xR3ap",
+        "module",
+        17
+    ],
+    "FA1": [
+        "FA1",
+        "mRR4W",
+        "module",
+        18
+    ],
+    "FD1": [
+        "FD1",
+        "LRE8M",
+        "module",
+        19
+    ],
+    "FD2": [
+        "FD2",
+        "pNi8q",
+        "module",
+        20
+    ],
+    "HA1": [
+        "HA1",
+        "b9apy",
+        "module",
+        21
+    ],
+    "MUX21H": [
+        "MUX21H",
+        "nd3Qq",
+        "module",
+        22
+    ],
+    "ND2": [
+        "ND2",
+        "TxenJ",
+        "module",
+        31
+    ],
+    "ND4": [
+        "ND4",
+        "pK3mI",
+        "module",
+        24
+    ],
+    "NR2": [
+        "NR2",
+        "DUIFi",
+        "module",
+        25
+    ],
+    "NR4": [
+        "NR4",
+        "TkpKp",
+        "module",
+        2
+    ],
+    "OR3": [
+        "OR3",
+        "Jr5hv",
+        "module",
+        27
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        29
+    ]
+}

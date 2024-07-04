@@ -1,0 +1,28 @@
+* "simulator" "PrimeSim HSPICE"
+* "version" "T-2022.06 linux64"
+* "format" "HSP"
+* "rundate" "01:54:12 10/18/2023 "
+* "netlist" "FA1.sp "
+* "runtitle" "*********************************************"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ b =   0.            
++ ci =   0.            
++ co = 877.6444n       
++ s = 878.0850n       
++ vdd =   1.0000        
++ xs.w1 = 999.9910m       
++ xs.w2 = 999.9839m       
++ xs.w3 = 999.9980m       
++ xs.w4 = 999.9824m       
++ xco.w1 = 999.9994m       
++ xco.w2 =  39.7048m       
++ xco.w3 =  54.5896m       
++ xco.w4 = 999.9998m       
++ xco.w5 = 999.9997m       
+***   END: Saved Operating Point ***                     

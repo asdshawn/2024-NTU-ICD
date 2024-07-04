@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1702501713.283999748, "rt":1.55, "ut":0.68, "st":0.25}}
+{"vcselab":{"timestamp_begin":1702501714.914649663, "rt":1.35, "ut":0.55, "st":0.23}}
+{"link":{"timestamp_begin":1702501716.331692250, "rt":0.53, "ut":0.22, "st":0.17}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1702501712.793207250}
+{"VCS_COMP_START_TIME": 1702501712.793207250}
+{"VCS_COMP_END_TIME": 1702501718.853998115}
+{"VCS_USER_OPTIONS": "tb.v sigmoid.v lib.v -v2005 -full64 -R -debug_access+all +v2k"}
+{"vcs1": {"peak_mem": 331764}}
+{"stitch_vcselab": {"peak_mem": 221104}}

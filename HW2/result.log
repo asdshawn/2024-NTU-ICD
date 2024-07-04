@@ -1,0 +1,5 @@
+@FSDB log file version 1.0
+[VFAST16_AUTO_SWITCH_LOG]
+Command = vfast16 -silent -del / -o /home/raid7_2/user12/r2945050/ICD/HW2/EN.tr0.fsdb -ft spice /home/raid7_2/user12/r2945050/ICD/HW2/EN.tr0
+[FSDB_LIST]
+file1 = /home/raid7_2/user12/r2945050/ICD/HW2/EN_0.fsdb begin_time 0.000000e+00 end_time 1.000000e-06

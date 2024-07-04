@@ -1,0 +1,6 @@
+{"vcs1":{"timestamp_begin":1700699187.975258322, "rt":0.47, "ut":0.13, "st":0.06}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1700699187.252180612}
+{"VCS_COMP_START_TIME": 1700699187.252180612}
+{"VCS_COMP_END_TIME": 1700699188.601010903}
+{"VCS_USER_OPTIONS": "tb_poker.v poker.v lib.v -full64 -R -debug_access+all +v2k"}
+{"vcs1": {"peak_mem": 314908}}

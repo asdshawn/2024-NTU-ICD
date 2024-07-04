@@ -1,0 +1,6 @@
+{"vcs1":{"timestamp_begin":1702493822.122513475, "rt":0.47, "ut":0.16, "st":0.08}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1702493821.617172211}
+{"VCS_COMP_START_TIME": 1702493821.617172211}
+{"VCS_COMP_END_TIME": 1702493822.695754438}
+{"VCS_USER_OPTIONS": "tb.v sigmoid.v lib.v -v2005 -full64 -R -debug_access+all +v2k"}
+{"vcs1": {"peak_mem": 315696}}

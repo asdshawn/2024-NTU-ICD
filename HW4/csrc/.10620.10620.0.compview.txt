@@ -1,0 +1,5 @@
+{"vcs1":{"timestamp_begin":1702561968.904453941, "rt":0.87, "ut":0.09, "st":0.08}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1702561968.392265232}
+{"VCS_COMP_START_TIME": 1702561968.392265232}
+{"VCS_COMP_END_TIME": 1702561970.926857869}
+{"VCS_USER_OPTIONS": "tb.v sigmoid.v lib.v -v2005 -full64 -R -debug_access+all +v2k"}
